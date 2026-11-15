@@ -1,0 +1,36 @@
+crop_id,crop_name,scientific_name,genus,family,cycle_months,sow_tmin,sow_tmax,vernalization_required,harvest_tmin,cool_season_cover,tmin,topmn,topmx,tmax,rmin,ropmn,ropmx,rmax,phmin,phopmn,phopmx,phmax,gmin,gmax,nitrogen_role,root_depth_class,waterlogging_ok,is_cover_crop,min_sowing_soilw
+winter_wheat,Winter Wheat,Triticum aestivum,Triticum,Poaceae,10,6.5,16.5,True,13.5,False,-12.0,10.0,20.0,28.0,350.0,500.0,900.0,1400.0,5.5,6.0,7.0,8.5,90.0,250.0,heavy_feeder,medium,False,False,0.45
+spring_wheat,Spring Wheat,Triticum aestivum,Triticum,Poaceae,5,6.5,14.5,False,14.0,False,5.0,15.0,23.0,27.0,300.0,750.0,900.0,1600.0,5.5,6.0,7.0,8.5,90.0,250.0,heavy_feeder,medium,False,False,0.45
+winter_barley,Winter Barley,Hordeum vulgare,Hordeum,Poaceae,10,6.5,16.5,True,13.5,False,-10.0,10.0,20.0,28.0,320.0,480.0,880.0,1350.0,6.0,6.5,7.5,8.0,90.0,240.0,heavy_feeder,medium,False,False,0.44
+spring_barley,Spring Barley,Hordeum vulgare,Hordeum,Poaceae,5,6.5,14.5,False,14.0,False,2.0,15.0,20.0,40.0,200.0,500.0,1000.0,2000.0,6.0,6.5,7.5,8.0,90.0,240.0,heavy_feeder,medium,False,False,0.42
+winter_oats,Winter Oats,Avena sativa,Avena,Poaceae,10,6.5,16.0,True,13.5,False,-8.0,10.0,19.0,27.0,380.0,520.0,950.0,1400.0,4.5,5.0,6.0,7.5,110.0,270.0,light_feeder,deep,False,False,0.44
+spring_oats,Spring Oats,Avena sativa,Avena,Poaceae,5,6.5,14.5,False,14.0,False,5.0,16.0,20.0,30.0,250.0,600.0,1000.0,1500.0,4.5,5.0,6.0,7.5,110.0,270.0,light_feeder,deep,False,False,0.42
+winter_rye_grain,Winter Rye (Grain),Secale cereale,Secale,Poaceae,10,6.0,16.5,True,13.5,False,-15.0,9.0,19.0,27.0,300.0,450.0,850.0,1300.0,4.5,5.5,6.0,8.2,110.0,270.0,heavy_feeder,deep,False,False,0.4
+winter_osr,Winter Oilseed Rape,Brassica napus,Brassica,Brassicaceae,11,11.5,20.5,True,13.5,False,-10.0,10.0,20.0,27.0,400.0,550.0,950.0,1400.0,5.5,6.5,7.6,8.0,85.0,340.0,heavy_feeder,deep,False,False,0.52
+spring_osr,Spring Oilseed Rape,Brassica napus,Brassica,Brassicaceae,5,7.0,15.0,False,14.0,False,5.0,15.0,25.0,41.0,400.0,500.0,1000.0,2800.0,5.5,6.5,7.6,8.0,85.0,340.0,heavy_feeder,deep,False,False,0.5
+spring_linseed,Spring Linseed (Flax),Linum usitatissimum,Linum,Linaceae,4,6.5,14.5,False,14.0,False,5.0,16.0,24.0,30.0,250.0,500.0,800.0,1300.0,5.5,6.0,6.5,7.0,80.0,180.0,light_feeder,shallow,False,False,0.42
+sunflower,Sunflower,Helianthus annuus,Helianthus,Asteraceae,4,12.0,26.0,False,16.0,False,5.0,17.0,34.0,45.0,300.0,600.0,1000.0,1600.0,5.5,6.0,7.5,8.0,70.0,200.0,heavy_feeder,deep,False,False,0.45
+sugar_beet,Sugar Beet,Beta vulgaris,Beta,Amaranthaceae,7,7.0,15.0,False,12.0,False,4.0,15.0,25.0,35.0,500.0,600.0,800.0,1000.0,5.5,6.0,7.0,7.5,160.0,240.0,heavy_feeder,deep,False,False,0.5
+potato,Potato,Solanum tuberosum,Solanum,Solanaceae,4,8.0,18.0,False,14.0,False,7.0,15.0,25.0,30.0,250.0,500.0,800.0,2000.0,4.2,5.0,6.2,8.5,90.0,160.0,heavy_feeder,shallow,False,False,0.52
+winter_field_beans,Winter Field Beans,Vicia faba,Vicia,Fabaceae,10,6.5,14.5,True,13.5,False,-8.0,9.0,19.0,26.0,400.0,550.0,950.0,1400.0,4.5,6.0,7.0,8.6,100.0,150.0,fixer,deep,False,False,0.48
+spring_field_beans,Spring Field Beans,Vicia faba,Vicia,Fabaceae,5,6.5,14.5,False,14.0,False,5.0,18.0,28.0,32.0,250.0,650.0,1000.0,2600.0,4.5,6.0,7.0,8.6,100.0,150.0,fixer,deep,False,False,0.48
+winter_field_pea,Winter Field Pea,Pisum sativum,Pisum,Fabaceae,9,6.5,14.5,True,13.5,False,-7.0,9.0,18.0,25.0,350.0,480.0,850.0,1300.0,4.5,5.5,7.0,8.3,60.0,140.0,fixer,shallow,False,False,0.46
+spring_field_pea,Spring Combining Pea,Pisum sativum,Pisum,Fabaceae,4,6.5,14.5,False,14.0,False,4.0,10.0,24.0,30.0,350.0,800.0,1200.0,2500.0,4.5,5.5,7.0,8.3,60.0,140.0,fixer,shallow,False,False,0.45
+rye_vetch_cover,Winter Rye & Vetch Cover,Secale cereale,Secale,Poaceae,5,7.0,16.0,False,4.0,True,-12.0,5.0,16.0,25.0,250.0,400.0,900.0,1400.0,4.5,5.5,6.0,8.2,110.0,270.0,fixer,deep,True,True,0.42
+mustard_biofumigant_cover,Mustard Biofumigant Cover,Sinapis alba,Sinapis,Brassicaceae,3,9.0,20.0,False,5.0,True,-4.0,8.0,18.0,26.0,220.0,350.0,800.0,1300.0,5.5,6.5,7.5,8.5,110.0,180.0,light_feeder,deep,False,True,0.44
+buckwheat_phacelia_cover,Buckwheat & Phacelia Catch Cover,Fagopyrum esculentum,Fagopyrum,Polygonaceae,3,12.0,26.0,False,10.0,False,5.0,14.0,24.0,32.0,200.0,350.0,800.0,1300.0,4.4,5.0,6.5,7.5,55.0,85.0,light_feeder,shallow,False,True,0.4
+crimson_clover_cover,Crimson Clover Cover,Trifolium incarnatum,Trifolium,Fabaceae,5,8.0,18.0,False,5.0,True,-8.0,7.0,18.0,26.0,280.0,420.0,850.0,1300.0,4.8,6.0,7.0,8.3,100.0,170.0,fixer,medium,False,True,0.44
+sunn_hemp_cover,Sunn Hemp Tropical Cover,Crotalaria juncea,Crotalaria,Fabaceae,3,20.0,35.0,False,18.0,False,14.0,22.0,32.0,38.0,300.0,500.0,1200.0,2000.0,5.0,6.0,7.0,8.4,60.0,160.0,fixer,deep,False,True,0.45
+paddy_rice,Paddy Rice,Oryza sativa,Oryza,Poaceae,4,22.0,35.0,False,22.0,False,10.0,20.0,30.0,36.0,1000.0,1500.0,2000.0,4000.0,4.5,5.5,7.0,9.0,80.0,180.0,heavy_feeder,shallow,True,False,0.68
+upland_rice,Upland Rice,Oryza sativa,Oryza,Poaceae,4,21.0,34.0,False,21.0,False,10.0,20.0,30.0,36.0,1000.0,1500.0,2000.0,4000.0,4.5,5.5,7.0,9.0,80.0,180.0,heavy_feeder,medium,False,False,0.55
+grain_maize,Grain Maize,Zea mays,Zea,Poaceae,4,15.0,32.0,False,17.0,False,10.0,18.0,33.0,47.0,400.0,600.0,1200.0,1800.0,4.5,5.0,7.0,8.5,65.0,365.0,heavy_feeder,deep,False,False,0.5
+sorghum,Sorghum (Jowar),Sorghum bicolor,Sorghum,Poaceae,4,18.0,35.0,False,18.0,False,8.0,22.0,35.0,40.0,300.0,400.0,600.0,700.0,5.0,5.5,7.5,8.0,90.0,300.0,light_feeder,deep,False,False,0.42
+pearl_millet,Pearl Millet (Bajra),Pennisetum glaucum,Pennisetum,Poaceae,3,20.0,36.0,False,20.0,False,12.0,25.0,35.0,40.0,200.0,400.0,900.0,1700.0,4.5,5.0,6.5,8.3,60.0,120.0,light_feeder,deep,False,False,0.38
+chickpea,Chickpea (Gram),Cicer arietinum,Cicer,Fabaceae,4,15.0,28.0,False,17.0,False,7.0,15.0,29.0,35.0,300.0,600.0,1000.0,1800.0,4.7,6.0,8.5,9.5,90.0,180.0,fixer,deep,False,False,0.42
+pigeon_pea,Pigeon Pea (Arhar),Cajanus cajan,Cajanus,Fabaceae,6,20.0,34.0,False,18.0,False,10.0,18.0,38.0,45.0,400.0,600.0,1500.0,4000.0,4.5,5.0,7.0,8.4,90.0,365.0,fixer,deep,False,False,0.48
+mung_bean,Mung Bean (Moong),Vigna radiata,Vigna,Fabaceae,3,20.0,35.0,False,20.0,False,8.0,21.0,36.0,40.0,500.0,650.0,900.0,1250.0,4.3,5.5,6.2,8.3,50.0,120.0,fixer,shallow,False,False,0.42
+black_gram,Black Gram (Urad),Vigna mungo,Vigna,Fabaceae,3,20.0,35.0,False,20.0,False,8.0,22.0,35.0,40.0,530.0,650.0,900.0,2430.0,4.5,5.5,6.5,7.5,60.0,130.0,fixer,shallow,False,False,0.44
+lentil,Lentil (Masoor),Lens culinaris,Lens,Fabaceae,4,10.0,24.0,False,15.0,False,5.0,15.0,29.0,32.0,250.0,600.0,1000.0,2500.0,4.5,5.5,7.5,8.2,70.0,240.0,fixer,shallow,False,False,0.4
+soybean,Soybean,Glycine max,Glycine,Fabaceae,4,16.0,32.0,False,17.0,False,10.0,20.0,33.0,38.0,450.0,600.0,1500.0,1800.0,4.5,5.5,6.5,8.4,75.0,180.0,fixer,medium,False,False,0.5
+groundnut,Groundnut (Peanut),Arachis hypogaea,Arachis,Fabaceae,4,20.0,34.0,False,20.0,False,10.0,22.0,32.0,45.0,400.0,600.0,1500.0,4000.0,4.5,5.5,6.5,8.5,90.0,150.0,fixer,shallow,False,False,0.48
+indian_mustard,Indian Mustard,Brassica juncea,Brassica,Brassicaceae,4,14.0,28.0,False,16.0,False,7.0,15.0,28.0,40.0,500.0,700.0,2400.0,4200.0,5.0,5.5,6.5,8.0,50.0,100.0,heavy_feeder,deep,False,False,0.44

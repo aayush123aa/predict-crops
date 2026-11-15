@@ -1,0 +1,60 @@
+crop_id,crop_name,family,sow_month_num,sow_month,cycle_months,is_cover_crop,biophysical_fit,drought_resilience
+sugar_beet,Sugar Beet,Amaranthaceae,3,Mar,7,False,0.9553,0.0
+rye_vetch_cover,Winter Rye & Vetch Cover,Poaceae,3,Mar,5,True,0.9545,0.0962
+spring_field_pea,Spring Combining Pea,Fabaceae,3,Mar,4,False,0.9296,0.0
+spring_barley,Spring Barley,Poaceae,3,Mar,5,False,0.9253,0.2148
+spring_osr,Spring Oilseed Rape,Brassicaceae,3,Mar,5,False,0.9029,0.0
+spring_wheat,Spring Wheat,Poaceae,3,Mar,5,False,0.8801,0.0
+spring_field_beans,Spring Field Beans,Fabaceae,3,Mar,5,False,0.8284,0.0361
+spring_linseed,Spring Linseed (Flax),Linaceae,3,Mar,4,False,0.8203,0.1597
+spring_oats,Spring Oats,Poaceae,3,Mar,5,False,0.8069,0.0412
+spring_barley,Spring Barley,Poaceae,4,Apr,5,False,0.9964,0.2773
+spring_osr,Spring Oilseed Rape,Brassicaceae,4,Apr,5,False,0.9953,0.0
+spring_wheat,Spring Wheat,Poaceae,4,Apr,5,False,0.9879,0.0
+sugar_beet,Sugar Beet,Amaranthaceae,4,Apr,7,False,0.981,0.0
+spring_field_pea,Spring Combining Pea,Fabaceae,4,Apr,4,False,0.9444,0.0
+spring_linseed,Spring Linseed (Flax),Linaceae,4,Apr,4,False,0.9277,0.0016
+potato,Potato,Solanaceae,4,Apr,4,False,0.927,0.0016
+spring_field_beans,Spring Field Beans,Fabaceae,4,Apr,5,False,0.8995,0.083
+spring_oats,Spring Oats,Poaceae,4,Apr,5,False,0.8909,0.0948
+spring_wheat,Spring Wheat,Poaceae,5,May,5,False,1.0,0.0324
+spring_barley,Spring Barley,Poaceae,5,May,5,False,1.0,0.382
+spring_osr,Spring Oilseed Rape,Brassicaceae,5,May,5,False,1.0,0.0
+spring_linseed,Spring Linseed (Flax),Linaceae,5,May,4,False,1.0,0.2568
+buckwheat_phacelia_cover,Buckwheat & Phacelia Catch Cover,Polygonaceae,5,May,3,True,1.0,0.5387
+lentil,Lentil (Masoor),Fabaceae,5,May,4,False,1.0,0.1835
+sunflower,Sunflower,Asteraceae,5,May,4,False,0.9746,0.0474
+potato,Potato,Solanaceae,5,May,4,False,0.9739,0.2568
+spring_field_pea,Spring Combining Pea,Fabaceae,5,May,4,False,0.9712,0.0
+spring_field_beans,Spring Field Beans,Fabaceae,5,May,5,False,0.9383,0.1615
+spring_oats,Spring Oats,Poaceae,5,May,5,False,0.9333,0.1846
+buckwheat_phacelia_cover,Buckwheat & Phacelia Catch Cover,Polygonaceae,6,Jun,3,True,1.0,0.7505
+lentil,Lentil (Masoor),Fabaceae,6,Jun,4,False,1.0,0.1813
+indian_mustard,Indian Mustard,Brassicaceae,6,Jun,4,False,1.0,0.0
+sunflower,Sunflower,Asteraceae,6,Jun,4,False,0.9966,0.0449
+potato,Potato,Solanaceae,6,Jun,4,False,0.9739,0.2539
+buckwheat_phacelia_cover,Buckwheat & Phacelia Catch Cover,Polygonaceae,7,Jul,3,True,1.0,0.651
+winter_osr,Winter Oilseed Rape,Brassicaceae,8,Aug,11,False,1.0,0.0
+buckwheat_phacelia_cover,Buckwheat & Phacelia Catch Cover,Polygonaceae,8,Aug,3,True,0.9958,1.0
+winter_osr,Winter Oilseed Rape,Brassicaceae,9,Sep,11,False,1.0,0.0
+winter_wheat,Winter Wheat,Poaceae,9,Sep,10,False,0.99,0.3057
+winter_barley,Winter Barley,Poaceae,9,Sep,10,False,0.989,0.4741
+winter_rye_grain,Winter Rye (Grain),Poaceae,9,Sep,10,False,0.9545,0.639
+rye_vetch_cover,Winter Rye & Vetch Cover,Poaceae,9,Sep,5,True,0.9545,1.0
+winter_oats,Winter Oats,Poaceae,9,Sep,10,False,0.9211,0.1132
+winter_osr,Winter Oilseed Rape,Brassicaceae,10,Oct,11,False,1.0,0.0
+winter_field_beans,Winter Field Beans,Fabaceae,10,Oct,10,False,1.0,0.0
+winter_wheat,Winter Wheat,Poaceae,10,Oct,10,False,0.9955,0.2032
+winter_field_pea,Winter Field Pea,Fabaceae,10,Oct,9,False,0.9953,0.4209
+winter_barley,Winter Barley,Poaceae,10,Oct,10,False,0.9951,0.378
+winter_rye_grain,Winter Rye (Grain),Poaceae,10,Oct,10,False,0.9545,0.5365
+rye_vetch_cover,Winter Rye & Vetch Cover,Poaceae,10,Oct,5,True,0.9545,1.0
+mustard_biofumigant_cover,Mustard Biofumigant Cover,Brassicaceae,10,Oct,3,True,0.9308,1.0
+winter_oats,Winter Oats,Poaceae,10,Oct,10,False,0.9279,0.0034
+winter_wheat,Winter Wheat,Poaceae,11,Nov,10,False,1.0,0.1772
+winter_barley,Winter Barley,Poaceae,11,Nov,10,False,1.0,0.3536
+winter_field_beans,Winter Field Beans,Fabaceae,11,Nov,10,False,1.0,0.0
+winter_field_pea,Winter Field Pea,Fabaceae,11,Nov,9,False,1.0,0.1721
+winter_rye_grain,Winter Rye (Grain),Poaceae,11,Nov,10,False,0.9545,0.5105
+rye_vetch_cover,Winter Rye & Vetch Cover,Poaceae,11,Nov,5,True,0.9545,1.0
+winter_oats,Winter Oats,Poaceae,11,Nov,10,False,0.9333,0.0
